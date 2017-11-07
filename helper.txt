@@ -1,0 +1,29 @@
+.img-rounded  rundade hörn
+.img-responsive
+.center-block - centerar
+
+.lead makes paragraph stand out
+.text-center - centerar text
+.text-uppercase / .text-lowercase - små/stora bokstäver
+
+.text-primary - blue color
+.text-muted - gray
+.text-success - green
+.text-danger - red
+
+Placering:
+.pull-left - vänsterställer text
+.pull-right - högerställer text
+.clearfix - clears floats
+
+.show - element forced to show (display: block)
+.hide element forced to be hidden (display: none)
+.invisible: element forced to be invisible (display: hidden)
+
+
+
+button class="close" ett kryss
+
+.caret for span or i-tag (får en pil)
+
+
